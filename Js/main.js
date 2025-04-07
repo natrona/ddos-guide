@@ -1,4 +1,3 @@
-<script>
 const terminal = document.getElementById("terminal");
     const linkFinal = document.getElementById("linkFinal");
     const simulateBtn = document.getElementById("simulateBtn");
@@ -57,4 +56,4 @@ const terminal = document.getElementById("terminal");
         count++;
       }, 50);
     }
-</script>
+
