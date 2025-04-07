@@ -43,6 +43,6 @@ Acesse o simulador aqui: [https://natrona.github.io/ddos-guide/](https://natrona
 
 ```bash
 cd /sdcard
-git clone [https://github.com/natrona/ddos-guide/tree/main]
-cd simulador-educacional
+git clone https://github.com/natrona/ddos-guide/tree/main
+cd ddos-guide
 # Abra o index.html no navegador
