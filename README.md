@@ -4,7 +4,7 @@ Este é um projeto **educacional e visual** que simula como alguns ataques ciber
 
 ## Demonstração
 
-Acesse o simulador aqui: [https://natrona.github.io/natrona/ddos-guide/](https://github.com/natrona/ddos-guide)
+Acesse o simulador aqui: [https://natrona.github.io/natrona/ddos-guide/Index.html](https://github.com/natrona/ddos-guide)
 
 ![Preview](preview.png) <!-- Coloque um print discreto da interface se quiser -->
 
