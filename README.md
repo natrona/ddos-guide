@@ -42,6 +42,7 @@ Acesse o simulador aqui: [https://natrona.github.io/ddos-guide/](https://natrona
 ## Como rodar localmente
 
 ```bash
+cd /sdcard
 git clone https://github.com/seunome/simulador-educacional.git
 cd simulador-educacional
 # Abra o index.html no navegador
